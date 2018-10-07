@@ -25,7 +25,7 @@ componentDidMount() {
         <div>
             <div className="bgStyles">
               <div className="textStyles">
-                  <ReactRevealText show={this.state.show} text="WELCOME TO MY LIFE" />
+                  <ReactRevealText show={this.state.show} text="WELCOME TO MY LIFE !" />
               </div>
             </div>
             <br />
